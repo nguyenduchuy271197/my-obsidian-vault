@@ -1,4 +1,4 @@
-#### Tuần 1-2
+#### Tuần 1-2: Front-end: Các kiến thức nền tảng đến chuyên sâu về HTML, CSS
 - Thiết kế và xây dựng một dự án thực tế tuyệt đẹp cho portfolio của bạn với HTML và CSS
 - Sử dụng CSS hiện đại với flexbox và CSS Grid cho layout
 - Các khái niệm CSS quan trọng như box model, thuộc tính position, tính kế thừa, v.v.
@@ -9,7 +9,7 @@
 -  Phát triển kỹ năng của developer như đọc tài liệu, gỡ lỗi và sử dụng các công cụ chuyên nghiệp như Figma, Photoshop..
 - Cách tìm và sử dụng các nội dung thiết kế miễn phí như hình ảnh, phông chữ (fonts) và biểu tượng (icons)
 
-#### Tuần 3-4
+#### Tuần 3-4: Front-end: Tất tần tật về Javascript
 
 - Xây dựng dự án thực tế tuyệt đẹp cho portfolio của bạn
 - Hiểu cách JavaScript thực sự hoạt động phía sau như thế nào
@@ -24,7 +24,7 @@
 - Thực hành các kỹ năng của bạn với hơn 10 bài tập
 
 
-#### Tuần 5-6-7-8
+#### Tuần 5-6-7-8: Front-end: Xây dựng UI với thư viện ReactJS
 - Xây dựng các ứng dụng React cấp doanh nghiệp và triển khai lên production
 - Học cách xây dựng các ứng dụng hiệu quả, quy mô lớn như một senior
 - Tìm hiểu các tính năng mới nhất trong React bao gồm Hooks, Context API, Suspense, React Lazy,...
@@ -39,7 +39,7 @@
 - Kiểm tra ứng dụng của bạn với thử nghiệm Jest
 - Xử lý thanh toán trực tuyến với Stripe API
 
-#### Tuần 9-10-11-12-13-14
+#### Tuần 9-10-11-12-13-14: Backend: NodeJS và MongoDB
 
 - Làm chủ toàn bộ công nghệ back-end hiện đại: Node, Express, MongoDB và Mongoose (MongoDB JS driver)
 - Xây dựng một ứng dụng real-world hoàn chỉnh và đẹp từ đầu đến cuối
@@ -55,7 +55,7 @@
 - Gửi email và tải tệp lên
 - Triển khai ứng dụng cuối cùng lên production
 
-#### Tuần 15-16
+#### Tuần 15-16: Hackathon
 - Thực hiện chương trình Hackathon để xây dựng dự án fullstack từ front-end đến back-end
 - Thuyết trình đồ án cuối khoá của cá nhân hoặc nhóm
 - Được trả lời phỏng vấn trực tiếp với giáo viên đầy kinh nghiệm
