@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/React/Buổi 1.md",
+            "file": "Courses/Bootcamp/Bootcamp 2/Curriculum.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/React/Buổi 1.md",
+                "file": "Courses/Bootcamp/Bootcamp 2/Curriculum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "f74c742347bd3dc2",
   "lastOpenFiles": [
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/React/Buổi 1.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 7 1.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 4.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 1.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/React/Buổi 1.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 12.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 11.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 10.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 9.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 8.md"
+    "Courses/Bootcamp/Bootcamp 2/Curriculum.md",
+    "React/Roadmap/Advanced/Roadmap Image.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 1.md",
+    "README.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/Untitled.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 12.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 11.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 10.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 9.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 8.md"
   ]
 }
