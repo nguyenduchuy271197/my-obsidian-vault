@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "f838b87b08beb248",
+    "type": "split",
+    "children": [
+      {
+        "id": "f74c742347bd3dc2",
+        "type": "leaf",
+        "dimension": 45.991189427312776,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/React/Buổi 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7908f1de8a987644",
+        "type": "leaf",
+        "dimension": 54.008810572687224,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React/Roadmap/Advanced/Roadmap Image.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e641abc6fac66e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1816fb66ef4c213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb81a7124b89523",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d254bc5d68fce316",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246
+  },
+  "right": {
+    "id": "366333fd69fc7c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1150cc74c831a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85a60be93a8d2ece",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/React/Buổi 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f74c742347bd3dc2",
+  "lastOpenFiles": [
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/React/Buổi 1.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 7 1.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 4.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 1.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/React/Buổi 1.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 12.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 11.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 10.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 9.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/HTML CSS JS/Buổi 8.md"
+  ]
+}
