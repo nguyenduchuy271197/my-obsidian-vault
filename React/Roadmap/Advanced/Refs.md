@@ -86,7 +86,7 @@ function App() {
 Demo: [https://codesandbox.io/s/hungry-glade-d7mjb](https://codesandbox.io/s/hungry-glade-d7mjb)
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[Render Props]]
 

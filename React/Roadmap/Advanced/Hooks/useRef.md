@@ -134,7 +134,7 @@ Thứ hai, bạn có thể sử dụng nó để tích hợp với các thư vi�
 
 Cuối cùng nhưng không kém phần quan trọng, bạn có thể kích hoạt hình ảnh động bắt buộc trên các element của bạn. Đây là những trường hợp tiêu biểu bạn nên sử dụng thuộc tính ref để truy cập đến React DOM của mình.
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[useMemo]]
 

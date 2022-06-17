@@ -174,7 +174,7 @@ Và chúng ta có một chút so sánh giữa `state` và `props`
 | Có thể thay đổi trong các component con          	| Yes   	| No    	|
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[Conditional Rendering]]
 

@@ -144,7 +144,7 @@ Như chúng ta đã biết thì **componentWillUnmount** sẽ chạy mỗi khi
 Thực tế thì _**useEffect**_ cho phép chúng ta return 1 function, function này sẽ thực thi trước khi mà component đó được Unmount.
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[Context]]
 Reference: https://viblo.asia/p/su-dung-useeffect-trong-reacthooks-1Je5EPbmlnL

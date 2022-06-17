@@ -172,7 +172,7 @@ React `useReducer` hook là một cách hữu ích để quản lý state tron
 
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[useContext]]
 

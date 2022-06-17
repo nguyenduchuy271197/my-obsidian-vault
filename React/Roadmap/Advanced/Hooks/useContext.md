@@ -129,7 +129,7 @@ Còn nếu như App của bạn cần phải xử lý nhiều logic phức tạp
 -   Testing: Redux dựa trên các pure function nên dễ dàng thực hiện kiểm thử. Tất cả các bài test đều tập trung vào việc kiểm tra outputs dựa trên các inputs đã cho.
 -   Patterns và tổ chức code: Redux được nghiên cứu kỹ lưỡng và có công thức cho hầu hết các vấn đề. Có một phương pháp gọi là Ducks mà bạn có thể sử dụng để tổ chức code Redux.
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Related: [[useReducer]]
 

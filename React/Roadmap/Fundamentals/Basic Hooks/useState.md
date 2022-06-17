@@ -102,7 +102,7 @@ setState({salary: 1000})
 
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[useEffect]]
 

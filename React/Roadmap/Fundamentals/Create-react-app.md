@@ -17,6 +17,6 @@ Ngoài`npm start`,`create-react-app`đã thêm một số lệnh khác:
 -   `npm eject`: để đẩy ra khỏi`create-react-app`
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[Components]]

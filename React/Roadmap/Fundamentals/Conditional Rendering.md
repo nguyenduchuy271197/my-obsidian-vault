@@ -147,5 +147,5 @@ function LoadingIndicator({ isLoading }) {
 ```
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 Next: [[Component Life Cycle]]

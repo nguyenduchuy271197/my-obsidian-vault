@@ -311,7 +311,7 @@ class Child extends React.Component {
 ```
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Related: [[Component Life Cycle (cont)]]
 

@@ -40,6 +40,6 @@ document.querySelector("#container")
 ```
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[Props and State]]

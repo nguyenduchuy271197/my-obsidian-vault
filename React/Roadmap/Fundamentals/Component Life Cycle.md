@@ -119,7 +119,7 @@ Các bạn chú ý rằng khi khởi tạo Component chúng ta chỉ khởi tạ
 
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Related: [[Component Life Cycle (cont)]]
 

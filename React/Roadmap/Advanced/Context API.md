@@ -46,7 +46,7 @@ Cho đến React 16.3 thì giải pháp cho vấn đề này là sử dụng Red
 
 React Context cung cấp cho chúng ta cơ chế định nghĩa các data store và truy xuất chúng khi cần. Chúng ta không cần phải truyền data thông qua props nữa. Với React Context chúng ta có thể định nghĩa và sử dụng một thứ giống như là "global state" của ứng dụng vậy.
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[Refs]]
 

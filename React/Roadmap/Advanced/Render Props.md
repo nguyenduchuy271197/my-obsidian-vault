@@ -117,7 +117,7 @@ class App extends React.Component {
 Trên đây là phần chia sẻ của mình về phương pháp **Render Props**, tham khảo từ bài viết [React Render Props Explained](https://scotch.io/tutorials/react-render-props-explained) hi vọng sẽ hữu dụng với bạn đọc.
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[High Order Components]]
 

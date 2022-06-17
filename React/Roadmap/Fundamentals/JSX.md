@@ -11,6 +11,6 @@ Việc sử dụng JSX trong ReactJS là không bắt buộc. Bạn có thể s�
 -   Thứ 2, JSX không làm thay đổi ngữ nghĩa của Javascript
 -   Thứ 3, với cách viết gần với các thẻ HTML, nó giúp những developers thông thường (ví dụ như các designer) có thể hiểu được một cách dễ dàng, từ đó có thể viết hoặc sửa code mà không gặp nhiều khó khăn. Ví du với đoạn code JSX như sau
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[Create-react-app]]

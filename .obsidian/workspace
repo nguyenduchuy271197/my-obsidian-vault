@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f74c742347bd3dc2",
+        "id": "a8933523f6f2f395",
         "type": "leaf",
-        "dimension": 45.991189427312776,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Bootcamp/Bootcamp 2/Curriculum.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7908f1de8a987644",
-        "type": "leaf",
-        "dimension": 54.008810572687224,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React/Roadmap/Advanced/Roadmap Image.md",
+            "file": "Udemy/Nodejs/Theory/Authentication.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Bootcamp/Bootcamp 2/Curriculum.md",
+                "file": "Udemy/Nodejs/Theory/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f74c742347bd3dc2",
+  "active": "a8933523f6f2f395",
   "lastOpenFiles": [
-    "Courses/Bootcamp/Bootcamp 2/Curriculum.md",
-    "React/Roadmap/Advanced/Roadmap Image.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 1.md",
-    "README.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end/Untitled.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 12.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 11.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 10.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 9.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 8.md"
+    "Udemy/Nodejs/Theory/Authentication.md",
+    "Udemy/Nodejs/Theory/Session & Cookies.md",
+    "Udemy/Nodejs/Theory/Dynamic Routes.md",
+    "HTML CSS JS/Architecture/Gulp.md",
+    "HTML CSS JS/Images/Pasted image 20220617131715.png",
+    "HTML CSS JS/Images/Pasted image 20220617124620.png",
+    "HTML CSS JS/Architecture/SCSS,SASS.md",
+    "HTML CSS JS/Architecture/Code giao diện website từ bản design (Phần 1).md",
+    "HTML CSS JS/Images/Pasted image 20220617124529.png",
+    "Nodejs/Images/Pasted image 20220617121249.png"
   ]
 }

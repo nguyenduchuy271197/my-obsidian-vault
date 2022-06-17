@@ -295,7 +295,7 @@ function NumberList(props) {
 }
 ```
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[Composition and Inheritance]]
 

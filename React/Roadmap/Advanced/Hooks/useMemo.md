@@ -123,7 +123,7 @@ Qua 2 ví dụ trên ta thấy `React Memo` và `useMemo` là khá tương �
 Trong boilerplate react khi ta sử dụng generate để render function component, nó tự động add thêm `React Memo` cho chúng ta, các bạn thử điều này nhé, nó cũng thật hữu ích cho chúng ta tiết kiệm khá khá thời gian phải không.
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[useReducer]]
 

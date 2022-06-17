@@ -163,7 +163,7 @@ Trước khi làm việc với `useCallback`, đảm bảo bạn đã phân tí
 -   Tốc độ tăng có đảm bảo độ phức tạo của vẫn giữ được ở mức cần thiết ?
 -   Sử dụng `useCallback` có đảm bảo tăng tốc độ cho thành phần được sử dụng?
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[useRef]]
 

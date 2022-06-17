@@ -124,7 +124,7 @@ Ngoài ra nếu các bạn muốn sử dụng các function giữa các Componen
 
 
 
-Roadmap: [[Roadmap Image]]
+Roadmap: [[React/Roadmap/Advanced/Roadmap Image]]
 
 Next: [[useState]]
 
