@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Udemy/Nodejs/Theory/Authentication.md",
+            "file": "Udemy/Nodejs/Theory/Session & Cookies.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy/Nodejs/Theory/Authentication.md",
+                "file": "Udemy/Nodejs/Theory/Session & Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a8933523f6f2f395",
   "lastOpenFiles": [
-    "Udemy/Nodejs/Theory/Authentication.md",
     "Udemy/Nodejs/Theory/Session & Cookies.md",
     "Udemy/Nodejs/Theory/Dynamic Routes.md",
+    "Udemy/Nodejs/Theory/Template Engine.md",
+    "Udemy/Nodejs/Theory/Authentication.md",
+    "Udemy/Nodejs/Theory/Untitled.md",
     "HTML CSS JS/Architecture/Gulp.md",
     "HTML CSS JS/Images/Pasted image 20220617131715.png",
     "HTML CSS JS/Images/Pasted image 20220617124620.png",
     "HTML CSS JS/Architecture/SCSS,SASS.md",
-    "HTML CSS JS/Architecture/Code giao diện website từ bản design (Phần 1).md",
-    "HTML CSS JS/Images/Pasted image 20220617124529.png",
-    "Nodejs/Images/Pasted image 20220617121249.png"
+    "HTML CSS JS/Architecture/Code giao diện website từ bản design (Phần 1).md"
   ]
 }
