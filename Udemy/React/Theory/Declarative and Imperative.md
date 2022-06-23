@@ -14,7 +14,7 @@ Bạn có thể hình dung là với Imperative Programming thì bạn quan tâm
 ![[Pasted image 20220616214459.png]]
 
 
-Chúng ta cùng xem thêm ví dụ viết theo Imperative Programming khác:
+Chúng ta cùng xem thêm ví dụ viết theo Imperative Programming khác:›
 
 ```js
 let array = [1, 2, 3, 4, 5, 6]

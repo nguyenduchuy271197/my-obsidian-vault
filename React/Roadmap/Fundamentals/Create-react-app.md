@@ -1,5 +1,5 @@
 
-[`create-react-app`](https://github.com/facebook/create-react-app)là một dự án nhằm giúp bạn bắt kịp tốc độ với React ngay lập tức. Nó cung cấp bộ khởi động ứng dụng React được tạo sẵn, vì vậy bạn có thể đi sâu vào xây dựng ứng dụng của mình mà không cần phải xử lý các cấu hình [[Webpack]] và [[Babel]].
+[`create-react-app`](https://github.com/facebook/create-react-app)là một dự án nhằm giúp bạn bắt kịp tốc độ với React ngay lập tức. Nó cung cấp bộ khởi động ứng dụng React được tạo sẵn, vì vậy bạn có thể đi sâu vào xây dựng ứng dụng của mình mà không cần phải xử lý các cấu hình [[Webpack]] và [[React/Roadmap/Fundamentals/Babel]].
 
 -   một máy chủ phát triển với tính năng tải lại nóng
 -   cung cấp một môi trường thử nghiệm với Jest
