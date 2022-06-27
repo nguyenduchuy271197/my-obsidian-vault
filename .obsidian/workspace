@@ -7,12 +7,8 @@
         "id": "51e463f2aa18273c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Babel.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Babel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "51e463f2aa18273c",
   "lastOpenFiles": [
+    "React/Roadmap/Fundamentals/Props and State.md",
+    "React/Roadmap/Fundamentals/Components.md",
     "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Babel.md",
     "React/Roadmap/Fundamentals/JSX.md",
-    "React/Roadmap/Fundamentals/Props and State.md",
     "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Virtual DOM.md",
     "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Why React?.md",
     "React/Roadmap/Fundamentals/Create-react-app.md",
     "Udemy/React/Theory/Unidirectional data flow.md",
     "Udemy/React/Architecture/Thiết kế scalable React App từ đầu.md",
-    "Udemy/React/Architecture/React Folder Structure.md",
-    "Udemy/React/Theory/Declarative and Imperative.md"
+    "Udemy/React/Architecture/React Folder Structure.md"
   ]
 }
