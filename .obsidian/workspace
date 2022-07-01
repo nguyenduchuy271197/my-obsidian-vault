@@ -7,8 +7,12 @@
         "id": "51e463f2aa18273c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Machine Learning/Unsupervised & Supervised learning/What is Machine Learning?.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Unsupervised & Supervised learning/What is Machine Learning?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "51e463f2aa18273c",
   "lastOpenFiles": [
+    "Machine Learning/Unsupervised & Supervised learning/What is Machine Learning?.md",
+    "Machine Learning/Untitled.md",
+    "Images/Pasted image 20220623152420.png",
     "React/Roadmap/Fundamentals/Props and State.md",
     "React/Roadmap/Fundamentals/Components.md",
     "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Babel.md",
     "React/Roadmap/Fundamentals/JSX.md",
     "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Virtual DOM.md",
     "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Why React?.md",
-    "React/Roadmap/Fundamentals/Create-react-app.md",
-    "Udemy/React/Theory/Unidirectional data flow.md",
-    "Udemy/React/Architecture/Thiết kế scalable React App từ đầu.md",
-    "Udemy/React/Architecture/React Folder Structure.md"
+    "React/Roadmap/Fundamentals/Create-react-app.md"
   ]
 }
