@@ -1,0 +1,11 @@
+- Space + Right mouse (Keep and move mouse scroll): Di chuyển màn hình
+- Command/Ctrl + Mouse Scroll: Zoom in/out
+- Alt + Drag: Create shortcut for current element
+- Shift: Align according to grid
+- Command/Ctrl + G: Group elements
+- Command/Ctrl + R: Rename elements
+- Option + V: Align vertical line
+- Option + H: Align horizontal line
+- Command/Ctrl + Option/Alt + Up/Down Arrow: Change layer position of elements
+- Command/Ctrl + M: Use as mask
+- 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Machine Learning/Unsupervised & Supervised learning/What is Machine Learning?.md",
+            "file": "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Unsupervised & Supervised learning/What is Machine Learning?.md",
+                "file": "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "51e463f2aa18273c",
   "lastOpenFiles": [
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 3.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 1.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 2.md",
+    "Figma/Shortcut.md",
+    "Profile.md",
+    "Database Design/DBML - Database Markup Language.md",
     "Machine Learning/Unsupervised & Supervised learning/What is Machine Learning?.md",
     "Machine Learning/Untitled.md",
     "Images/Pasted image 20220623152420.png",
-    "React/Roadmap/Fundamentals/Props and State.md",
-    "React/Roadmap/Fundamentals/Components.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Babel.md",
-    "React/Roadmap/Fundamentals/JSX.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Virtual DOM.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/React (4 weeks)/Buổi 1/Why React?.md",
-    "React/Roadmap/Fundamentals/Create-react-app.md"
+    "React/Roadmap/Fundamentals/Props and State.md"
   ]
 }
