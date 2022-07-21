@@ -100,7 +100,7 @@ If these middlewares throw any error, a message will be sent as HTTP response.
 
 This is directory structure for our Node.js Express application:
 
-![react-express-authentication-jwt-example-server-project-structure](https://bezkoder.com/wp-content/uploads/2020/03/react-express-authentication-jwt-example-server-project-structure.png)
+![react-express-authentication-jwt-example-server-project-structure](media/react-express-authentication-jwt-example-server-project-structure.png)
 
 – **config**
 
@@ -136,7 +136,7 @@ This is directory structure for our Node.js Express application:
 
 Let’s look at the diagram below.
 
-![react-express-authentication-jwt-example-react-components](https://bezkoder.com/wp-content/uploads/2020/03/react-express-authentication-jwt-example-react-components.png)
+![react-express-authentication-jwt-example-react-components](media/react-express-authentication-jwt-example-react-components.png)
 
 – The `App` component is a container with React Router (`BrowserRouter`). Basing on the state, the navbar can display its items.
 
@@ -172,6 +172,6 @@ We’re gonna use these modules:
 
 This is folders & files structure for this React application:
 
-![react-express-authentication-jwt-example-client-project-structure](https://bezkoder.com/wp-content/uploads/2020/03/react-express-authentication-jwt-example-client-project-structure.png)
+![react-express-authentication-jwt-example-client-project-structure](media/react-express-authentication-jwt-example-client-project-structure.png)
 
 With the explanation in diagram above, you can understand the project structure easily.

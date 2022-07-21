@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51e463f2aa18273c",
+        "id": "77cc496872919054",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bootcamp/Buoi 1.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -58,46 +54,22 @@
   "right": {
     "id": "366333fd69fc7c4a",
     "type": "split",
-    "children": [
-      {
-        "id": "a1150cc74c831a79",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85a60be93a8d2ece",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Bootcamp/Buoi 1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "51e463f2aa18273c",
+  "active": "77cc496872919054",
   "lastOpenFiles": [
-    "Bootcamp/Buoi 1.md",
-    "Images/Screen Shot 2022-06-30 at 22.11.13.png",
-    "Images/Pasted image 20220719103807.png",
-    "Me/Profile.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 3.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 1.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 2.md",
-    "Figma/Shortcut.md",
-    "Database Design/DBML - Database Markup Language.md",
-    "Machine Learning/Unsupervised & Supervised learning/What is Machine Learning?.md"
+    "Untitled.md",
+    "README.md",
+    "Plugin Demo/Buoi 2.md",
+    "Plugin Demo/Demo.md",
+    "Plugin Demo/Data.md",
+    "Plugin Demo/Buoi 1.md",
+    "Plugin Demo/Demo.svg",
+    "media/8n4T7vL.png",
+    "Plugin Demo/Demo 1.svg",
+    "Plugin Demo/Drawing 2022-07-21 11.28.39.excalidraw.md"
   ]
 }

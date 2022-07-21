@@ -68,7 +68,7 @@ Bộ công cụ SDK cũng giúp phần mềm, ứng dụng của bạn trở lê
 
 Trên là một vài chia sẻ về SDK, mình mong các bạn sẽ phần nào hiểu hơn về khái niệm của SDK và triển khai nó ở thực tế.
 
-Sau đây là phần so sánh giữa SDK và API cho những bạn hay nhầm lẫn ![😄](https://twemoji.maxcdn.com/2/72x72/1f604.png)
+Sau đây là phần so sánh giữa SDK và API cho những bạn hay nhầm lẫn ![😄](media/😄.png)
 
 # SDK vs API
 

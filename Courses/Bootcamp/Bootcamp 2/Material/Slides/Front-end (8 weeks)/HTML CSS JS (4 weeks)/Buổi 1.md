@@ -8,7 +8,15 @@ Cài đặt các phần mềm:
 - Postman
 - Obsidian Vault (Notion)
 
+Github, Gihub usage:
+- Tạo tài khoản github
+- Tạo profile với https://gprm.itsvg.in/
+- Tạo repository cho bootcamp note
+- Tạo repository cho bootcamp code
 
+Obsidian Vault Usage:
+- Cài đặt các plugin hỗ trợ cho việc note
+- Tìm hiểu về Markdown
 
 Các extension:
 - Auto rename tag
