@@ -1,4 +1,4 @@
-Cài đặt các phần mềm:
+### Cài đặt các phần mềm:
 - Slack
 - Vscode
 - Figma Desktop
@@ -8,17 +8,22 @@ Cài đặt các phần mềm:
 - Postman
 - Obsidian Vault (Notion)
 
-Github, Gihub usage:
+---
+
+### Github, Gihub usage:
 - Tạo tài khoản github
 - Tạo profile với https://gprm.itsvg.in/
 - Tạo repository cho bootcamp note
 - Tạo repository cho bootcamp code
 
-Obsidian Vault Usage:
+---
+
+### Obsidian Vault Usage:
 - Cài đặt các plugin hỗ trợ cho việc note
 - Tìm hiểu về Markdown
+---
 
-Các extension:
+### Các extension:
 - Auto rename tag
 - live server
 - Code Spell Checker: sửa lỗi chính tả
@@ -33,35 +38,38 @@ Các extension:
 - Mobile view
 - Image Preview
 - ionicons
+---
 
 
-Các việc cần làm trước khi code
+### Các việc cần làm trước khi code
 - Autosave
 - Format on save
+---
 
+### Nội dung bài học:
 
-Nội dung bài học:
+---
 -  Giới thiệu về HTML:
 		- Là Hypertext Markup Language
 		- Hypertext: heading, hình ảnh, video, paragraph, link
 	
 ![[Screen Shot 2022-07-18 at 21.23.14.png]]
 
-
+---
 - Cấu trúc một document HTML
 	- !DOCTYPE: Khai báo kiểu document là HTML
 	- Thẻ head: Chứa những cấu hình của web như title, và những thứ liên quan tới SEO
 	- Thẻ body: Chứa nội dung
 
+---
 
 - Text elements:
 	- h1, h2...h6: Dành cho heading
 	- p: Thường dành cho các đoạn văn, văn bản
 	- strong: Thẻ này ít sử dụng, có thể dùng trong việc nhấn mạnh cụm từ nào đó
-
-
 	- li: Thẻ này cho việc liệt kê danh sách
 	- ul: Thẻ này luôn đi kèm với li (ngoài ra còn có ol)
+---
 
 - Images và thuộc tính:
 	- Thẻ img
@@ -69,35 +77,41 @@ Nội dung bài học:
 	- alt: (alternative text) dùng để thay thế ghi ảnh khi ảnh ko load được, ngoài ra nó có mục đích cho việc SEO
 	- width: 100
 	- heigh: 100
+---
 
 - Hyperlink
 	- Thẻ a: Dùng để liên kết tới trang khác
 	- href: Hypertext reference, đường dẫn để tham chiếu tới trang khác
 	- target: blank
+---
 
 - Thẻ div: Là một box
+---
 
 - Cấu trúc trang web (Các thẻ Semantic)
 	- Thẻ header
 	- Thẻ article
 	- Thẻ footer
 	- Thẻ main
+---
 
 
 - Bài tập:
 	- https://www.w3schools.com/html/exercise.asp
 
-
+---
 
 - Giới thiệu về CSS:
 	- Cascading Style Sheet
 	- font, text, spacing, layout,
 
 ![[Screen Shot 2022-07-18 at 22.31.57.png]]
+---
 
 
 - Các kiểu style trong CSS:
 	- Inline, internal, external
+---
 
 - Style cho text:
 	- font-family
@@ -109,11 +123,13 @@ Nội dung bài học:
 	- text-align: center
 
 ![[Screen Shot 2022-07-18 at 22.35.05.png]]
+---
 
 
 - Kết hợp selector
 	- h2, h3, h4 : Các selector có cùng styling -> DRY
 	- section h1: Style các tag h1 trong thẻ section
+---
 
 
 - Class và id
@@ -124,6 +140,7 @@ Nội dung bài học:
 		- Khi khác báo tên id cho thẻ nào đó thì sẽ ko dùng lại lần 2 nữa, còn class thì khai báo một lớp cho nhiều thẻ
 
 		- Khai báo trong css thì id bắt đầu bằng #, class bắt đầu bằng .
+---
 
 - Color:
 	- Mô hình RGB: 
@@ -134,23 +151,22 @@ Nội dung bài học:
 	- Hexadecimal:
 		- #ffffff -> viết tắt thành #fff
 
-
 	- Màu xám (gray):
 		- Có tổng cộng 256 giá trị gray
 		- Khi giá trị của 3 channels giống nhau -> tạo ra màu gray
 		- vd: rgb(100,100,100)
-
-
 	- Thường sử dụng:
 		- color
 		- background-color
 
+---
 
 
 - Pseudo classes (Lớp giả)
 	- :first-child, :last-child
 	- nth-child(even)
 	- :not(:last-child)
+---
 
 
 - Styling cho thẻ a:
@@ -160,15 +176,18 @@ Nội dung bài học:
 	- a:active -> Lúc click chuột vô thẻ a
 	- Kiểm tra bằng cách sử Chrome Dev Tool
 
+---
 
 - Conflict selectors (Sự xung đột giữa các selectors)
 	- !important -> Inline -> Id -> class (pseudo-class) -> element (p, div, li) -> Universal selector
 	- class -> có thể đặt nhiều class trong một thẻ
+---
 
 
 - Inheritance and Universal Selectors (Kế thừa)
 	- CSS cho body font-family, font-size, các element con kế thừa những thuộc tính này
 	- Tuy nhiên có vài thẻ ko kế thừa thuộc tính này như thẻ a
+---
 
 
 - Box model (Mô hình hộp)
@@ -176,18 +195,18 @@ Nội dung bài học:
 	- Padding: Khoảng cách từ nội dung đến viềng
 	- Border: Viềng
 	- Margin: Khoảng cách giữa các elements
-
 	- Nếu set background-color thì phần padding và content sẽ được fill bởi color đó
 	- Chiều dài (width) của box sẽ được tính = margin_left + border_left + padding_left + content + padding_right + border_right + margin_right
 	- Tương tự với height
-
 	- Thử thêm thuộc tính width và height và kiểm tra với Chrome Dev Tool
+---
 
 - Cách center một box
 	- Set width cho box đó là 500px
 	- Lúc này box sẽ chưa nằm ở giữa, bạn thêm cho nó thêm thuộc tính margin left và right là auto, thì lúc này nó sẽ center box cho bạn
 	- Thường thì mình sẽ đặt class container
 
+---
 
 - Types of boxes (Các kiểu box)
 	- Block:
@@ -212,7 +231,7 @@ Nội dung bài học:
 		- Trong CSS: display: inline-block
 
 	- Lưu ý: Các bạn có thể thay đổi display của element để hợp với context lúc đó
-
+---
 
 
 - Positioning
@@ -229,6 +248,7 @@ Nội dung bài học:
 		- Không bị ảnh hưởng bởi các element xung quanh, và overlap lên chúng
 		- Bạn có thể thay đổi vị trí của element sử dụng top, right, bottom, left để thay đổi vị trí của nó
 		- Xem vị trí của elemnent thẻ cha có chứa thuộc tính position là điểm quy chiếu
+---
 
 
 - Pseudo-elements:
@@ -237,11 +257,12 @@ Nội dung bài học:
 	- ::first-letter: thêm một style cho chữ đầu tiên của text
 	- ::before: thêm content trước content của element
 	- ::after: thêm content sau content của element
-
+---
 
 - Box-sizing:
 	- Mặc định là content-box -> width = content
 	- Set lại border-box -> width =  border_left + padding_left + content + padding_right + border_right (Mô tả bằng hình ảnh và giải thích lí do tại sao phải set border-box)
+---
 
 - Flexbox:
 	- Review:

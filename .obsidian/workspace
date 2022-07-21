@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77cc496872919054",
+        "id": "697669483072c006",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 3.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -59,17 +63,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "77cc496872919054",
+  "active": "697669483072c006",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 2.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 1.md",
     "README.md",
-    "Plugin Demo/Buoi 2.md",
+    "Plugin Demo/Buoi 1.md",
+    "2022-W30.md",
+    "Plugin Demo/Untitled Kanban.md",
     "Plugin Demo/Demo.md",
     "Plugin Demo/Data.md",
-    "Plugin Demo/Buoi 1.md",
-    "Plugin Demo/Demo.svg",
-    "media/8n4T7vL.png",
-    "Plugin Demo/Demo 1.svg",
-    "Plugin Demo/Drawing 2022-07-21 11.28.39.excalidraw.md"
+    "Plugin Demo/Buoi 2.md",
+    "Plugin Demo/Demo.svg"
   ]
 }
