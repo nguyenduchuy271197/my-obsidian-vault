@@ -19,12 +19,17 @@
 			- Reset CSS
 			- Base CSS
 			- Main CSS
+		- Elements and Components
 		- Reponsive website
 			- Breakpoints: 
 				- Mobile: < 601px
 				- Tablet: >= 601px
 				- Desktop: >= 993px
 					- Container: 1564px (nếu lớn hơn 1564px)
+		- Test website
+			- Link
+			- Button
+			- 
 
 - Typography
 	- Tạo ra bảng cho Typography
@@ -67,19 +72,21 @@
 		- outline: 0
 
 	- a:
-		- font: inherit
 		- color: inherit
+		- text-decoration: none
 
 	- button:
-		- display: inline-block
+		- font: inherit
+		- display: block
 		- border:none
-		- outline:none
-		- text-align:center
 		- cursor: pointer
+		- background: transparent
+		- 
 
 
 	- form
 		- input:
+			- display: block
 			- font-size: 100%
 			- font: inherit
 
@@ -119,3 +126,50 @@ landing-page
  ┗ index.html
 ```
 
+
+
+- Note:
+	- Thẻ img: Set display block bởi vì inline sẽ gây ra khoảng trắng ở dưới
+	- Thẻ button và input không kế thừa font của thẻ cha -> Reset button và input
+	- Text-transform cho các heading và các nội dung cần thiết
+	- Sự khác nhau giữa width, min-width, max-width
+	- Text-wrap: word-break -> Tránh bị overflow
+	- Truncate đoạn văn bản
+	- Vendor prefix: 
+
+```css
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+```
+
+```css
+.line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;  
+}
+```
+
+- Vendor Prefix:
+	**-moz-**: Mozilla Firefox  
+	**-webkit-**: Google Chrome, Apple Safari  
+	**-o-**: Opera  
+	**-ms**-: Microsoft Internet Explorer
+
+
+- Test different browsers
+
+
+
+- Sass
+	- Live sass compiler: Để compile sass thành css
+		- Configuration:
+			- Compress css
+			- Set đường dẫn chưa css file
+
+	- Sass partial: Tách file style thành nhiều file Scss cho dễ debug
+	- Sass variable: Sử dụng biến để tái sử dụng

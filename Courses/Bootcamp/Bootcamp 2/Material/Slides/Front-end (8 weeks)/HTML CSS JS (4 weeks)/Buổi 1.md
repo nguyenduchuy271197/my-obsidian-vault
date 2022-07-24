@@ -7,6 +7,7 @@
 - MongoDB Compass
 - Postman
 - Obsidian Vault (Notion)
+- Tạo tài khoản CodeSandBox
 
 ---
 
@@ -437,3 +438,10 @@
 	- Tối ưu hình ảnh (Image Optimization) với Sqooush
 	- Deploy trên Netlify
 
+
+```css
+body {
+	margin:0;
+	padding:0;
+}
+```
