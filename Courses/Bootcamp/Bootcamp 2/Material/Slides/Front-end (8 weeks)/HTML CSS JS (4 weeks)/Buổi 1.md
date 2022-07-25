@@ -1,12 +1,12 @@
 ### Cài đặt các phần mềm:
 - Slack
 - Vscode
-- Figma Desktop
 - Git bash
 - Github Desktop
+- Figma Desktop
+- Obsidian Vault (Notion)
 - MongoDB Compass
 - Postman
-- Obsidian Vault (Notion)
 - Tạo tài khoản CodeSandBox
 
 ---

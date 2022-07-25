@@ -92,20 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "258d64166f3e1f75",
   "lastOpenFiles": [
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 5.md",
+    "Bootcamp/Buoi 1.md",
     "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 4.md",
-    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 1.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 5.md",
     "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 3.md",
+    "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 1.md",
     "Courses/Bootcamp/Bootcamp 2/Material/Slides/Front-end (8 weeks)/HTML CSS JS (4 weeks)/Buổi 2.md",
     "README.md",
     "Plugin Demo/Buoi 1.md",
     "2022-W30.md",
-    "Plugin Demo/Untitled Kanban.md",
-    "Plugin Demo/Demo.md"
+    "Plugin Demo/Untitled Kanban.md"
   ]
 }
